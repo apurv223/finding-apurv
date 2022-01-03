@@ -1,0 +1,7 @@
+.cover{
+    background-image: url(../bg.jpg);
+    background-repeat: no-repeat;
+    opacity: 0.7;
+    height: 100vh;
+    background-position: center;
+}

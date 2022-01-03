@@ -1,7 +1,8 @@
+import Cover from './Cover'
 function App() {
   return (
     <div className="App">
-      <p>First commit for my personal project</p>
+      <Cover />
     </div>
   );
 }
